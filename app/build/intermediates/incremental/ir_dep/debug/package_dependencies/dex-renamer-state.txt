@@ -1,0 +1,4 @@
+#Sat Jan 19 18:47:07 EST 2019
+base.0=D\:\\Drivers\\Ankur\\Projects\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
